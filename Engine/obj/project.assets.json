@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JamesHester\\source\\repos\\SuperAdventure\\main\\Engine\\Engine.csproj",
+      "projectUniqueName": "C:\\Users\\JamesHester\\source\\repos\\SuperAdventure\\Engine\\Engine.csproj",
       "projectName": "Engine",
-      "projectPath": "C:\\Users\\JamesHester\\source\\repos\\SuperAdventure\\main\\Engine\\Engine.csproj",
+      "projectPath": "C:\\Users\\JamesHester\\source\\repos\\SuperAdventure\\Engine\\Engine.csproj",
       "packagesPath": "C:\\Users\\JamesHester\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JamesHester\\source\\repos\\SuperAdventure\\main\\Engine\\obj\\",
+      "outputPath": "C:\\Users\\JamesHester\\source\\repos\\SuperAdventure\\Engine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
